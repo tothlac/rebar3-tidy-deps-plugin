@@ -1,6 +1,6 @@
 -module(rebar_github_resource).
 
--include_lib("rebar_plug_dep/include/rebar_plug_dep.hrl").
+-include_lib("rebar_plug_dep/include/rebar_plug_dep1.hrl").
 
 -behaviour(rebar_resource).
 
