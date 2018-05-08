@@ -3,6 +3,10 @@
  {<<"rebar_plug_dep">>,
   {git,"git@github.com:tothlac/rebar_plug_dep.git",
        {ref,"b907f47797bfdbb849478fd6afb74fb8db1fea81"}},
+  0},
+ {<<"tdiff">>,
+  {git,"https://github.com/tomas-abrahamsson/tdiff.git",
+       {ref,"a62bb7d9cdae6bce032b2a296b46e266137df616"}},
   0}]}.
 [
 {pkg_hash,[
